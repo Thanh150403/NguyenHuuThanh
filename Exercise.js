@@ -9,7 +9,7 @@ let averageScore = (mathScore + physicsScore + chemistryScore) / 3;
 console.log("Average score:", averageScore);
 
 //Exercise 2: Calculate Rectangle Perimeter and Area
-// Declare width and height=tinhchuvi va dien tich hinhchunhat
+// Declare width and height
 let width = 5;
 let height1 = 3;
 // Calculate perimeter
@@ -21,7 +21,7 @@ console.log("Perimeter:", perimeter);
 console.log("Area:", area);
 
 //Exercise 3: Convert Celsius to Fahrenheit
-// Temperature in Celsius=chuyen doi nhiet do sang do am
+// Temperature in Celsius
 let celsius = 30;
 // Convert to Fahrenheit
 let fahrenheit = celsius * 1.8 + 32;
@@ -29,7 +29,7 @@ let fahrenheit = celsius * 1.8 + 32;
 console.log(celsius + "°C = " + fahrenheit + "°F");
 
 //Exercise 4: Calculate Tip Amount
-// Bill amount=tinh tien tiep
+// Bill amount
 let billAmount = 200000;
 // Tip percentage
 let tipPercent = 10;
@@ -43,7 +43,7 @@ console.log("Tip amount:", tipAmount);
 console.log("Total amount:", totalAmount);
 
 //Exercise 5: Check Even or Odd Number
-// Number to check=tinh so chan
+// Number to check
 let number = 7;
 // Check if divisible by 2
 let isEven = number % 2 == 0;
