@@ -1,23 +1,23 @@
 //Homework
 //1.Difference(s) between == and ===?
-const weight = 55;
-const height = 1.74;
-const BMI = weight / (height * height);
+let weight = 55;
+let height = 1.74;
+let BMI = weight / (height * height);
 console.log("BMI: ", BMI);
 
 
 //Calculate Simple Interest
 let principal = 3000;
 let rat = 0.5
-const time = 15;
-const interest = principal * rat * time;
+let time = 15;
+let interest = principal * rat * time;
 console.log("Interest: ", Interest);
 
 
 //Convert Currency
 let money = 50000;
-const local = 25000;
-const currency = money * local;
+let local = 25000;
+let currency = money * local;
 console.log("Currency: ", Currency);
 
 
